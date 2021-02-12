@@ -6,4 +6,4 @@
 
 weight = input('Weight: ')
 correct_weight = int(weight) * 0.45
-print(correct_weight + ('this is your weight in KG'))
+print(correct_weight)
